@@ -241,13 +241,13 @@ containing:
 # `Tableau Public` 
 
 ```
-        https://public.tableau.com/app/profile/harsha.sasi.priya.taninki/vizzes
+        https://public.tableau.com/app/profile/sapanthi.namala/vizze
 ```
 
 # `GitHub Repository` 
 
 ```
-         https://github.com/SasiPriya18/Strategic-Product-Placement-Analysis-using-Tableau
+         https://github.com/sapanthichowdary/Strategic-Product-Placement-Analysis
 ```
 
 ```
